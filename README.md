@@ -15,10 +15,6 @@ This is a **Streamlit-based** web application that allows users to upload PDFs a
 - Ask questions in the text input box
 - Get accurate, AI-generated responses from your PDF!
 
----
-
----
-
 ## Tech Stack
 - Python
 - Streamlit (Frontend)
@@ -27,11 +23,8 @@ This is a **Streamlit-based** web application that allows users to upload PDFs a
 - FAISS (Vector Search for document retrieval)
 - PyPDF2 (PDF text extraction)
 
----
-
----
+##
+- contributions are welcome! Please submit a pull request or open an issue if you find a bug or have a suggestion.
 
 ## License
 - This project is open-source and free to use under the MIT License.
-
----

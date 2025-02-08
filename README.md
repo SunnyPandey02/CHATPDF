@@ -16,9 +16,9 @@ This is a **Streamlit-based** web application that allows users to upload PDFs a
 ---
 
 ## Upload PDFs & Ask Questions
-- *Upload PDF files from the sidebar
-- *Click "Submit & Process" to extract and index the text
-- *Ask questions in the text input box
-- *Get accurate, AI-generated responses from your PDF!
+- Upload PDF files from the sidebar
+- Click "Submit & Process" to extract and index the text
+- Ask questions in the text input box
+- Get accurate, AI-generated responses from your PDF!
 
 ---

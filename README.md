@@ -22,3 +22,22 @@ This is a **Streamlit-based** web application that allows users to upload PDFs a
 - Get accurate, AI-generated responses from your PDF!
 
 ---
+
+---
+
+## Tech Stack
+- Python
+- Streamlit (Frontend)
+- LangChain (Text processing & AI integration)
+- Google Generative AI (Gemini-Pro) (LLM model)
+- FAISS (Vector Search for document retrieval)
+- PyPDF2 (PDF text extraction)
+
+---
+
+---
+
+## License
+- This project is open-source and free to use under the MIT License.
+
+---

@@ -23,7 +23,7 @@ This is a **Streamlit-based** web application that allows users to upload PDFs a
 - FAISS (Vector Search for document retrieval)
 - PyPDF2 (PDF text extraction)
 
-##
+## Contributing
 - contributions are welcome! Please submit a pull request or open an issue if you find a bug or have a suggestion.
 
 ## License
